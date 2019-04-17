@@ -1,0 +1,6 @@
+C:\Users\patry\Desktop\PROJEKT\Employees\Employees\bin\Debug\Employees.dll
+C:\Users\patry\Desktop\PROJEKT\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\patry\Desktop\PROJEKT\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\patry\Desktop\PROJEKT\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\PROJEKT\Employees\Employees\obj\Debug\Employees.dll
+C:\Users\patry\Desktop\PROJEKT\Employees\Employees\obj\Debug\Employees.pdb
